@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey 👋 here are some of my repos you might be interested in...
+
+* Make your own text adventure game with [text-engine](https://github.com/okaybenji/text-engine)
+* Synthesize music in the browser dynamically with [subpoly](https://github.com/okaybenji/subpoly)
+* Play a short NES-like platformer called [GOODNIGHT](https://github.com/okaybenji/goodnight)
+* Add drag-and-drop to elements on your website with [makeDraggable](https://github.com/okaybenji/makeDraggable)
+* Play massively multiplayer Pong with [100ng](https://github.com/okaybenji/100ng)
 
 <!--
 **okaybenji/okaybenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
