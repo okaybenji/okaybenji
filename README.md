@@ -6,6 +6,8 @@
 * Add drag-and-drop to elements on your website with [makeDraggable](https://github.com/okaybenji/makeDraggable)
 * Play massively multiplayer Pong with [100ng](https://github.com/okaybenji/100ng)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7179PSQ)
+
 <!--
 **okaybenji/okaybenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
