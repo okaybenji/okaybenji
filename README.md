@@ -1,6 +1,7 @@
 ### Hey 👋 here are some of my repos you might be interested in...
 
 * Make your own text adventure game with [text-engine](https://github.com/okaybenji/text-engine)
+* Explore [an adventure game](https://github.com/okaybenji/the-last-observatory) written by [Claude](https://claude.ai)
 * Synthesize music in the browser dynamically with [subpoly](https://github.com/okaybenji/subpoly)
 * Play a short NES-like platformer called [GOODNIGHT](https://github.com/okaybenji/goodnight)
 * Add drag-and-drop to elements on your website with [makeDraggable](https://github.com/okaybenji/makeDraggable)
